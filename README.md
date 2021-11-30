@@ -41,5 +41,5 @@ The multi-linear model with cumulative dose1/2 as independent variables, and vir
 ![ResidualGraph3](https://user-images.githubusercontent.com/56707953/143976668-e98ba6e9-59e7-4376-b85e-94cd368ed0dc.png)
 Like other two models, the residual graphs suggest there are other factor other than vaccine to affect the infection. One can see such pattern from sudden rise of infection in August, September.
 ![ExpectValue_Pair_Of_Dose12](https://user-images.githubusercontent.com/56707953/143976691-1b57627d-8138-45ca-813f-e3a08535e10b.png)
-One possible pair is (5470000, 6602608) which close to the current number of vaccination (5476764, 6152675). Base on this prediction, 
+One possible pair is (5470000, 6602608) which close to the current number of vaccination (5476764, 6152675) recorded in November 8, 2021. Base on this prediction, 449,933 people to get first dose of vaccine to reach 0 infection. 
 
