@@ -67,8 +67,8 @@ The multi-linear model with cumulative dose1/2 as independent variables, and vir
 ![MultiLinearRegression](https://user-images.githubusercontent.com/56707953/143976652-992d0dcd-849d-4f01-b8eb-3b37009d6e00.png)
 ![ResidualGraph3](https://user-images.githubusercontent.com/56707953/143976668-e98ba6e9-59e7-4376-b85e-94cd368ed0dc.png)
 
-Like other two models, the residual graphs suggest there are other factor other than vaccine to affect the infection. One can see such pattern from all sudden rise of infection in August, September in the residual graphs.
+Like other two models, the residual graphs suggest there are other factor other than vaccine to affect the infection in NYC. One can see such pattern from all sudden rise of infection in August, September in the residual graphs.
 
 ![ExpectValue_Pair_Of_Dose12](https://user-images.githubusercontent.com/56707953/143976691-1b57627d-8138-45ca-813f-e3a08535e10b.png)
-One possible pair is (5470000, 6602608) which close to the current number of vaccination (5476764, 6152675) recorded in November 8, 2021. Base on this prediction, approximately 449,933 more people need to get first dose of vaccine in order to reach 0 infection. 
+One possible pair is (5470000, 6602608) which close to the current number of vaccination (5476764, 6152675) recorded in November 8, 2021. Base on this prediction, approximately 449,933 more people need to get first dose of vaccine in order to reach 0 infection in NYC. 
 
