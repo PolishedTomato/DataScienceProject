@@ -14,13 +14,13 @@ https://github.com/nychealth/covid-vaccine-data/blob/main/doses/doses-by-day.csv
 
 **WorK Done**
 
-1, Creating visualization for trends of virus infection and vaccination by using seaborn, and malplotlib.
+1, Creating visualization for trends of virus infection and vaccination by using lineplot from seaborn, and malplotlib.
 
-2, Data cleaning on two datasets so it can merge by using pandas.
+2, Data cleaning on two datasets so it can merge by using pandas.to_datetime(), dt.strftime(), pd.dataframe.merge().
 
 3, Creating 2 linear models, and 1 multi-linear model for prediction on case infection by using Sklearn, pandas, study materials on linear regresion, correlation.
 
-4, Adding attributes of prediction, error to existing data frame for residual graphs with the help of pandas library's help.
+4, Adding attributes of prediction, error to existing data frame for residual graphs with the pd.series.apply(), pd.series substraction.
 
 5, Creating visualizations for linear regressions and multi-linear regression by using sklearn, seaborn, malplotlib.
 
