@@ -1,0 +1,10 @@
+Abstract
+Name: Deye Lei
+Email: Deye.lei76@myhunter.cuny.edu
+Resources: https://github.com/nychealth/coronavirus-data/blob/master/trends/cases-by-day.csv, https://github.com/nychealth/covid-vaccine-data/blob/main/doses/doses-by-day.csv
+Title: Association and prediction of daily corona virus infection with vaccination accumulation.
+Theme: Vaccination, Covid, Health
+Abstract: This project aims to discover the relationship between coronavirus inflection with the accumulated vaccine doses for each day begin at December 14, 2020 to when I collected the data October, and try to predict the infection based on model. This project will use linear regression model for first doses accumulation and second dose accumulation to the positive case of corona virus. This project will also use multi-linear model with accumulated dose1, dose2 as independent variables and Covid daily count as dependent variable.
+Relevance to NYC: The prediction and assiocation are for NYC exclusively.
+URL: https://polishedtomato.github.io/DataScienceProject/
+
